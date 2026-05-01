@@ -9,9 +9,9 @@ Tim SiLogisMPL
 1. Muhammad Akbar Putra Pahlawan (103012330227) - Project Manager & Business and System Analyst
 2. Zuhri Pratisto Basuki (103012300249) - UI/UX Designer & Main Front-end Developer
 3. Redemtus De Ferento Raka Riesta Resi Ruandhana (103012300291) - Back-end Developer
-4. Rosalina Siagian (103012300324) - Front-end Developer & QA Engineer
+4. Rosalina Siagian (103012300324) - QA Engineer & Front-end Developer
 5. Nabilah Putri Desky (103012300343) - UI/UX Designer & Software Tester
-6. Gloriana Valdrina Sanampe (103012300396) - System Analyst
+6. Gloriana Valdrina Sanampe (103012300396) - System Analyst & Front-end Developer
 7. Alexandra Yohana Daris Naibaho (103012330136) - UI/UX Designer & Lead Front-end Developer
 
 # Deskripsi Proyek
